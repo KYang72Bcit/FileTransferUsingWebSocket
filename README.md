@@ -1,9 +1,9 @@
 This is a client-server application that enables users to send files from the client to the
 server over a IPv4 or IPv6
 
-###Client.go
+### Client.go
 The client program is responsible for sending files to the server.
 
-###Server.go
+### Server.go
 The server program is responsible for receiving files from the client and save them in a
 directory.
